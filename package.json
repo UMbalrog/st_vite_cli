@@ -1,0 +1,26 @@
+{
+  "name": "st_vite_cli",
+  "version": "1.0.0",
+  "description": "模拟实现vite脚手架工具",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMbalrog/st_vite_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMbalrog/st_vite_cli/issues"
+  },
+  "homepage": "https://github.com/UMbalrog/st_vite_cli#readme",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.10",
+    "koa": "^2.13.1",
+    "koa-send": "^5.0.1"
+  }
+}
